@@ -13,6 +13,8 @@
 		58BB70F925E237A100DF5FC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58BB70F725E237A100DF5FC7 /* Main.storyboard */; };
 		58BB70FB25E237A100DF5FC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58BB70FA25E237A100DF5FC7 /* Assets.xcassets */; };
 		58BB70FE25E237A100DF5FC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58BB70FC25E237A100DF5FC7 /* LaunchScreen.storyboard */; };
+		58BB710625E2381E00DF5FC7 /* dark_background.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 58BB710525E2381E00DF5FC7 /* dark_background.pdf */; };
+		58BB710825E2382500DF5FC7 /* light_background.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 58BB710725E2382500DF5FC7 /* light_background.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		58BB70FA25E237A100DF5FC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58BB70FD25E237A100DF5FC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58BB70FF25E237A100DF5FC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58BB710525E2381E00DF5FC7 /* dark_background.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = dark_background.pdf; sourceTree = "<group>"; };
+		58BB710725E2382500DF5FC7 /* light_background.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = light_background.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				58BB70F725E237A100DF5FC7 /* Main.storyboard */,
 				58BB70FA25E237A100DF5FC7 /* Assets.xcassets */,
 				58BB70FC25E237A100DF5FC7 /* LaunchScreen.storyboard */,
+				58BB710525E2381E00DF5FC7 /* dark_background.pdf */,
+				58BB710725E2382500DF5FC7 /* light_background.pdf */,
 				58BB70FF25E237A100DF5FC7 /* Info.plist */,
 			);
 			path = OpenWeatherApp;
@@ -124,6 +130,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58BB710825E2382500DF5FC7 /* light_background.pdf in Resources */,
+				58BB710625E2381E00DF5FC7 /* dark_background.pdf in Resources */,
 				58BB70FE25E237A100DF5FC7 /* LaunchScreen.storyboard in Resources */,
 				58BB70FB25E237A100DF5FC7 /* Assets.xcassets in Resources */,
 				58BB70F925E237A100DF5FC7 /* Main.storyboard in Resources */,
